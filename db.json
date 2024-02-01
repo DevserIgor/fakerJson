@@ -1,0 +1,24 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice Johnson", "email": "alice.johnson@example.com", "password": "Alice123!", "userAdmin": false },
+    { "id": 2, "name": "Bob Smith", "email": "bob.smith@example.com", "password": "Bob123!", "userAdmin": false },
+    { "id": 3, "name": "Carol Williams", "email": "carol.williams@example.com", "password": "Carol123!", "userAdmin": false },
+    { "id": 4, "name": "David Brown", "email": "david.brown@example.com", "password": "David123!", "userAdmin": false },
+    { "id": 5, "name": "Eve Davis", "email": "eve.davis@example.com", "password": "Eve123!", "userAdmin": false },
+    { "id": 6, "name": "Frank Miller", "email": "frank.miller@example.com", "password": "Frank123!", "userAdmin": false },
+    { "id": 7, "name": "Grace Wilson", "email": "grace.wilson@example.com", "password": "Grace123!", "userAdmin": false },
+    { "id": 8, "name": "Henry Moore", "email": "henry.moore@example.com", "password": "Henry123!", "userAdmin": false },
+    { "id": 9, "name": "Irene Taylor", "email": "irene.taylor@example.com", "password": "Irene123!", "userAdmin": false },
+    { "id": 10, "name": "John Anderson", "email": "john.anderson@example.com", "password": "John123!", "userAdmin": false },
+    { "id": 11, "name": "Kathy White", "email": "kathy.white@example.com", "password": "Kathy123!", "userAdmin": false },
+    { "id": 12, "name": "Louis Harris", "email": "louis.harris@example.com", "password": "Louis123!", "userAdmin": false },
+    { "id": 13, "name": "Megan Clark", "email": "megan.clark@example.com", "password": "Megan123!", "userAdmin": false },
+    { "id": 14, "name": "Nathan Young", "email": "nathan.young@example.com", "password": "Nathan123!", "userAdmin": false },
+    { "id": 15, "name": "Olivia Allen", "email": "olivia.allen@example.com", "password": "Olivia123!", "userAdmin": false },
+    { "id": 16, "name": "Paul Walker", "email": "paul.walker@example.com", "password": "Paul123!", "userAdmin": false },
+    { "id": 17, "name": "Quincy Adams", "email": "quincy.adams@example.com", "password": "Quincy123!", "userAdmin": false },
+    { "id": 18, "name": "Rachel Baker", "email": "rachel.baker@example.com", "password": "Rachel123!", "userAdmin": false },
+    { "id": 19, "name": "Steven Campbell", "email": "steven.campbell@example.com", "password": "Steven123!", "userAdmin": false },
+    { "id": 20, "name": "Tina Turner", "email": "tina.turner@example.com", "password": "Tina123!", "userAdmin": false }
+  ]
+}
