@@ -122,6 +122,7 @@
     {
       "name": "Igão maroto",
       "email": "teste@email.com",
+      "password": "@igao123",
       "userAdmin": true,
       "id": 20
     },
